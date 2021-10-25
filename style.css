@@ -1,0 +1,36 @@
+body{
+    background-position: center;
+    background-size: cover;
+    background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
+
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 30px;
+}
+
+#div{
+    margin: 400px;
+    font-size: 50px;
+}
+h1{
+    font-size: 50px;
+    color:rgb(202, 28, 51);
+    background-color: cyan;
+height: 100px;
+margin: 30px;
+text-align: center;
+font-family: 'Andada Pro', serif;
+font-weight: bold;
+}
+a{
+    font-size: 40px;
+    background-color: greenyellow;
+    
+    display: block;
+    width: 700px;
+    border-radius: 20px;
+    margin:30px;
+
+}
